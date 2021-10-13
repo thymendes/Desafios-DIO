@@ -23,7 +23,4 @@
     <ul>
         <li>DDD</li>
         <li>Soma Simples</li>
-       
-    </ul>
-    </li>
 </ul>
